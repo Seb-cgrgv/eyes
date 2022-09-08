@@ -50,8 +50,8 @@ body {
     font-size: 80px;
     font-weight: bolder;
     position: absolute;
-    top: 250px;
-    left: 25%;
+    top: 100px;
+    left: 10%;
 }
 
 </style>
